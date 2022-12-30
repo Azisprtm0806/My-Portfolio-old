@@ -38,7 +38,7 @@ const About = () => {
           </div>
 
           <p>
-          I'm a junior web development and I'm from Indonesia, I'm interested in javascript programming language because there are many things I can do with javascript, I'm also a student of informatics engineering at ibn khaldun university BOGOR and I'm studying Everything, my hobbies are playing games and watching anime.
+          I'm a junior web development from Indonesia, I'm interested in javascript programming language because there are many things I can do with javascript, I'm also a student of informatics engineering at ibn khaldun university BOGOR and I'm studying Everything, my hobbies are playing games and watching anime.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
