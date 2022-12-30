@@ -47,6 +47,10 @@ header{
   overflow: hidden;
   padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
+.me img{
+  margin-top: -200px;
+}
+
 
 /*======== Scroll Down ==========*/
 .scroll__down{
